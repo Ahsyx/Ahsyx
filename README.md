@@ -5,12 +5,12 @@
     <td colspan="3" align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
       <picture>
         <source
-          srcset="https://github-readme-stats.vercel.app/api?username=Ahsyx&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&number_format=long&bg_color=00000000&theme=dark"
+          srcset="https://github-readme-stats-fast.vercel.app/api?username=Ahsyx&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&number_format=long&bg_color=00000000&theme=dark"
           media="(prefers-color-scheme: dark)" />
         <source
-          srcset="https://github-readme-stats.vercel.app/api?username=Ahsyx&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&number_format=long&bg_color=00000000"
+          srcset="https://github-readme-stats-fast.vercel.app/api?username=Ahsyx&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&number_format=long&bg_color=00000000"
           media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img src="https://github-readme-stats.vercel.app/api?username=Ahsyx&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&number_format=long" height="100%" />
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=Ahsyx&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&number_format=long" height="100%" />
       </picture>
     </a></td>
     <td colspan="3" align="center"><a href="https://github.com/denvercoder1/github-readme-streak-stats">
